@@ -1,0 +1,196 @@
+{
+  "main": {
+    "id": "a8d435629f04dacb",
+    "type": "split",
+    "children": [
+      {
+        "id": "c409d0e370b71b1a",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "026c2ce382e50bc1",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Экономика и ОПД.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Экономика и ОПД"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "62c4bebb0b0c12b5",
+    "type": "split",
+    "children": [
+      {
+        "id": "70454c25fad42e50",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "93ebe32cd6cf4a2f",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "9775527727fa397f",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "cae015ae665b7d4d",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "1d63f8807a544cf9",
+    "type": "split",
+    "children": [
+      {
+        "id": "bb19183e681a2984",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "5e432c6b5c2b153a",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Экономика и ОПД.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for Экономика и ОПД"
+            }
+          },
+          {
+            "id": "476bc01347c67c7e",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Экономика и ОПД.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from Экономика и ОПД"
+            }
+          },
+          {
+            "id": "f3c1a9d02011db91",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "d278244b52a6b5b9",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Экономика и ОПД.md",
+                "followCursor": true,
+                "showSearch": true,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Outline of Экономика и ОПД"
+            }
+          },
+          {
+            "id": "c5352d3c837614a1",
+            "type": "leaf",
+            "state": {
+              "type": "advanced-tables-toolbar",
+              "state": {},
+              "icon": "spreadsheet",
+              "title": "Advanced Tables"
+            }
+          }
+        ],
+        "currentTab": 3
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "bases:Create new base": false,
+      "table-editor-obsidian:Advanced Tables Toolbar": false,
+      "obsidian-excalidraw-plugin:New drawing": false
+    }
+  },
+  "active": "d278244b52a6b5b9",
+  "lastOpenFiles": [
+    "Экономика и ОПД.md",
+    "Cache/Pasted image 20250910203149.png",
+    "Cache/Pasted image 20250910203218.png",
+    "Cache",
+    "Excalidraw/Drawing 2025-09-10 19.33.16.excalidraw.md",
+    "Excalidraw/Drawing 2025-09-10 19.26.51.excalidraw.md",
+    "Pasted image 20250910192401.png",
+    "Excalidraw",
+    "Untitled.md"
+  ]
+}
