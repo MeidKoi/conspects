@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "c409d0e370b71b1a",
+        "id": "7853ebf214cf1702",
         "type": "tabs",
         "children": [
           {
-            "id": "026c2ce382e50bc1",
+            "id": "a304322d2c4491cc",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -78,7 +78,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 200
   },
   "right": {
     "id": "1d63f8807a544cf9",
@@ -162,11 +162,11 @@
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 4
       }
     ],
     "direction": "horizontal",
-    "width": 345.5
+    "width": 247.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -177,17 +177,16 @@
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
       "bases:Create new base": false,
-      "table-editor-obsidian:Advanced Tables Toolbar": false,
       "obsidian-excalidraw-plugin:New drawing": false,
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "026c2ce382e50bc1",
+  "active": "11b711b47be45277",
   "lastOpenFiles": [
+    "Экономика и ОПД.md",
     "Экономика и ОПД.pdf",
     "Cache/fulhjcuizoof1.jpeg",
     "Тест №2.md",
-    "Экономика и ОПД.md",
     "Тест № 1.md",
     "Cache",
     "Cache/Pasted image 20250910203149.png",
