@@ -1,7 +1,8 @@
 [
-  "table-editor-obsidian",
   "obsidian-excalidraw-plugin",
   "obsidian-icon-folder",
   "obsidian-html-tags-autocomplete",
-  "better-export-pdf"
+  "better-export-pdf",
+  "obsidian-git",
+  "obsidian-style-settings"
 ]

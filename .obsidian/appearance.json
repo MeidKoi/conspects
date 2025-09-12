@@ -1,5 +1,7 @@
 {
   "enabledCssSnippets": [
     "mermaid"
-  ]
+  ],
+  "cssTheme": "Prism",
+  "theme": "moonstone"
 }
