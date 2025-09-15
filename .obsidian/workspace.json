@@ -162,7 +162,7 @@
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 4
       }
     ],
     "direction": "horizontal",
@@ -177,18 +177,17 @@
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
       "bases:Create new base": false,
-      "table-editor-obsidian:Advanced Tables Toolbar": false,
       "obsidian-excalidraw-plugin:New drawing": false,
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "026c2ce382e50bc1",
+  "active": "11b711b47be45277",
   "lastOpenFiles": [
+    "Тест №2.md",
+    "Тест № 1.md",
+    "Экономика и ОПД.md",
     "Экономика и ОПД.pdf",
     "Cache/fulhjcuizoof1.jpeg",
-    "Тест №2.md",
-    "Экономика и ОПД.md",
-    "Тест № 1.md",
     "Cache",
     "Cache/Pasted image 20250910203149.png",
     "Cache/Pasted image 20250910203218.png",
